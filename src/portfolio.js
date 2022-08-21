@@ -1,15 +1,19 @@
-
+const header = {
+  // all the properties are optional - can be left empty or deleted
+  homepage: "https://sipter.github.io/vaia-zymara-portfolio",
+  title: "JS.",
+};
 
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: "Vaia Zymara",
   role: "Junior Front End Developer",
   description:
-    "Enthusiastic Junior Front End Developer with expertise in Javascript and ReactJs. With a Full Stack Web Development certificate and working knowledge of Material UI, NodeJS, MongoDB, I have a rounded tech skillet and deep passion for technology. Having completed numerous projects during my studies and personal projects, I can make a positive impact within any web development project.",
+    "Enthusiastic Junior Front End Developer with expertise in Javascript and ReactJs. With a Full Stack Web Development certificate and working knowledge of Material UI, NodeJS, MongoDB, I have a rounded tech skillet and deep passion for technology. Having completed numerous projects during my studies and personal projects such as, I can make a positive impact within any web development project.",
   resume: "https://example.com",
   social: {
-    github: "https://github.com/sipter", 
-    // linkedin: "www.linkedin.com/in/vaia-zymara",
+    linkedin: "www.linkedin.com/in/vaia-zymara",
+    github: "https://github.com/sipter",
   },
 };
 
@@ -62,4 +66,4 @@ const contact = {
   email: "v.zymara@outlook.com",
 };
 
-export { about, projects, skills, contact };
+export { header, about, projects, skills, contact };
