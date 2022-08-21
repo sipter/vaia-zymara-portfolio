@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vaia-zymara-portfolio/static/css/main.c088a03d.css",
-    "main.js": "/vaia-zymara-portfolio/static/js/main.dd8efbb9.js",
+    "main.js": "/vaia-zymara-portfolio/static/js/main.f04251d4.js",
     "index.html": "/vaia-zymara-portfolio/index.html",
     "main.c088a03d.css.map": "/vaia-zymara-portfolio/static/css/main.c088a03d.css.map",
-    "main.dd8efbb9.js.map": "/vaia-zymara-portfolio/static/js/main.dd8efbb9.js.map"
+    "main.f04251d4.js.map": "/vaia-zymara-portfolio/static/js/main.f04251d4.js.map"
   },
   "entrypoints": [
     "static/css/main.c088a03d.css",
-    "static/js/main.dd8efbb9.js"
+    "static/js/main.f04251d4.js"
   ]
 }
