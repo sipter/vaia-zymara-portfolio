@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vaia-zymara-portfolio/static/css/main.c088a03d.css",
+    "main.js": "/vaia-zymara-portfolio/static/js/main.7c9a49f7.js",
+    "index.html": "/vaia-zymara-portfolio/index.html",
+    "main.c088a03d.css.map": "/vaia-zymara-portfolio/static/css/main.c088a03d.css.map",
+    "main.7c9a49f7.js.map": "/vaia-zymara-portfolio/static/js/main.7c9a49f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c088a03d.css",
+    "static/js/main.7c9a49f7.js"
+  ]
+}
